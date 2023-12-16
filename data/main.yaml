@@ -1,0 +1,7 @@
+path: 'C:\Users\7ein\Desktop\GIB\data' # dataset root dir
+train: 'C:\Users\7ein\Desktop\GIB\data\images'  # train images (relative to 'path')
+val: 'C:\Users\7ein\Desktop\GIB\data\images'  # val images (relative to 'path')
+
+# Classes
+names:
+  0: Gib
